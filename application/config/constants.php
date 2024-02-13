@@ -97,7 +97,7 @@ defined('DEFAULT_PHONE_NO') OR define('DEFAULT_PHONE_NO', '+1 (404)207-5620');
 
 //defined('GOOGLE_MAP_API_KEY') OR define('GOOGLE_MAP_API_KEY','AIzaSyCNpag5CIPndETlFnQsBfwrTdarKuGJmJY');
 //defined('GOOGLE_MAP_API_KEY') OR define('GOOGLE_MAP_API_KEY','AIzaSyByga05rgV6dTqTnpBcR0HFiSbWoSxp_3s');
-defined('GOOGLE_MAP_API_KEY') OR define('GOOGLE_MAP_API_KEY','AIzaSyByga05rgV6dTqTnpBcR0HFiSbWoSxp_3s');
+defined('GOOGLE_MAP_API_KEY') OR define('GOOGLE_MAP_API_KEY','xxxxxxxxxxxxxxxxxxxxxx');
 
 
 defined('PHP_DATE_FORMAT') OR define('PHP_DATE_FORMAT', 'Y/m/d');
@@ -105,8 +105,8 @@ defined('DEFAULT_DATE_FORMAT') OR define('DEFAULT_DATE_FORMAT', 'Y/m/d');
 defined('SQL_DATE_FORMAT') OR define('SQL_DATE_FORMAT', '%Y/%m/%d');
 defined('DEFAULT_CURRENCY') OR define('DEFAULT_CURRENCY', '$');
 
-//defined('FCM_KEY') OR define('FCM_KEY','AAAA_W6vZIM:APA91bHGFClfbX-tfG21B2fuL0PyGxzIm1-MhYb_o2w-AxPLJPEnSqZ_6ugG5ZhFC-APq-M3v_uGwJ9WbuDfyxkJqlmrHtiyco67ojJuDs3wBRZblH7JOOcJb78Nn2DjTTGqCPpCDEHb');
-defined('FCM_KEY') OR define('FCM_KEY','AAAAnhx0egg:APA91bF8wIO3pEioxRWu8hQN4gj_DM2RxlaX3xM117FdiM0wt7VoJc8llELlHJYi9xkXXIfzWgbPdha24Tq-oK3DwCr1qDKf42VoKJV1LqKNQBPLUKF4iwRNl3-6XfoGcBDzkZwrNNm5');
+
+defined('FCM_KEY') OR define('FCM_KEY','xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx');
 
 
 /*
