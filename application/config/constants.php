@@ -119,10 +119,10 @@ defined('STRIPE_SECRET') OR define('STRIPE_SECRET', 'sk_test_dV9SzRCmNPMKr33sBaz
 
 
 //Test keys from Client's Stripe Account
-/*
-defined('STRIPE_KEY') OR define('STRIPE_KEY', 'pk_test_51N860MAyQV9SI7qTYWyZREnZsdywfMnNSqjGsnNnbvsdgsdfSVKx8l3FECtoIFlCfYGKalSkht4QpHoCIkUXCbFxEhsQc09gL00vwRY7FCI');
-defined('STRIPE_SECRET') OR define('STRIPE_SECRET', 'sk_test_51N860MAyQV9SI7qTGNiOKH1NSCOrddasdasdd0RnM9laBKfsdffBCM4nxI1HbTKU28GPCe0f9Fall93U44UfuxsHkAYyat7sJBrR00bMZVAIl1');
-*/
+
+defined('STRIPE_KEY') OR define('STRIPE_KEY', 'pk_test_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx');
+defined('STRIPE_SECRET') OR define('STRIPE_SECRET', 'sk_test_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx');
+
 /*
 //Test keys from Dev's Stripe Account
 defined('STRIPE_KEY') OR define('STRIPE_KEY', 'pk_test_4sjCZIFhfIeMDj3bpJsFapZf');
