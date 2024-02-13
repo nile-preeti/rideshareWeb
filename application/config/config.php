@@ -23,7 +23,10 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
+//For Live URL
 $config['base_url'] = 'https://app.ridesharerates.com/';
+
+
 
 
 /*
