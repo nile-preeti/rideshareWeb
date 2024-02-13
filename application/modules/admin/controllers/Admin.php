@@ -19,7 +19,8 @@ class Admin extends MY_Controller
 
 
 
-/* Testing purpose */
+/* Testing purpose    */
+
     public function test_mail()
     {
         //$this->testMail2();
