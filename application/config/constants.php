@@ -116,11 +116,6 @@ defined('FCM_KEY') OR define('FCM_KEY','XXXXXXXXXXXXXXXXXXXXXXXX');
 defined('STRIPE_KEY') OR define('STRIPE_KEY', 'pk_test_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx');
 defined('STRIPE_SECRET') OR define('STRIPE_SECRET', 'sk_test_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx');
 
-/*
-//Test keys from Dev's Stripe Account
-defined('STRIPE_KEY') OR define('STRIPE_KEY', 'pk_test_4sjCZIFhfIeMDj3bpJsFapZf');
-defined('STRIPE_SECRET') OR define('STRIPE_SECRET', 'sk_test_dV9SzRCmNPMKr33sBazUC54G');
-*/
 
 
 
