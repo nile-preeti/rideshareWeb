@@ -1,0 +1,76 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2023-05-23 00:44:00 --> 404 Page Not Found: /index
+ERROR - 2023-05-23 04:19:29 --> 404 Page Not Found: /index
+ERROR - 2023-05-23 04:19:33 --> 404 Page Not Found: /index
+ERROR - 2023-05-23 04:19:34 --> 404 Page Not Found: /index
+ERROR - 2023-05-23 04:19:38 --> 404 Page Not Found: /index
+ERROR - 2023-05-23 05:02:50 --> 404 Page Not Found: /index
+ERROR - 2023-05-23 05:02:53 --> 404 Page Not Found: /index
+ERROR - 2023-05-23 05:06:11 --> 404 Page Not Found: /index
+ERROR - 2023-05-23 05:08:42 --> 404 Page Not Found: /index
+ERROR - 2023-05-23 05:08:44 --> 404 Page Not Found: /index
+ERROR - 2023-05-23 05:20:29 --> 404 Page Not Found: /index
+ERROR - 2023-05-23 05:21:00 --> 404 Page Not Found: /index
+ERROR - 2023-05-23 05:23:19 --> 404 Page Not Found: /index
+ERROR - 2023-05-23 05:24:28 --> 404 Page Not Found: /index
+ERROR - 2023-05-23 06:03:04 --> 404 Page Not Found: /index
+ERROR - 2023-05-23 06:03:05 --> 404 Page Not Found: /index
+ERROR - 2023-05-23 06:03:14 --> 404 Page Not Found: /index
+ERROR - 2023-05-23 06:03:22 --> 404 Page Not Found: /index
+ERROR - 2023-05-23 06:03:53 --> 404 Page Not Found: /index
+ERROR - 2023-05-23 06:03:53 --> 404 Page Not Found: /index
+ERROR - 2023-05-23 06:04:22 --> 404 Page Not Found: /index
+ERROR - 2023-05-23 06:04:28 --> 404 Page Not Found: /index
+ERROR - 2023-05-23 06:06:44 --> 404 Page Not Found: /index
+ERROR - 2023-05-23 06:06:44 --> 404 Page Not Found: /index
+ERROR - 2023-05-23 06:08:58 --> 404 Page Not Found: /index
+ERROR - 2023-05-23 06:09:19 --> 404 Page Not Found: /index
+ERROR - 2023-05-23 06:09:35 --> 404 Page Not Found: /index
+ERROR - 2023-05-23 06:10:28 --> 404 Page Not Found: /index
+ERROR - 2023-05-23 06:10:36 --> 404 Page Not Found: /index
+ERROR - 2023-05-23 06:20:30 --> 404 Page Not Found: /index
+ERROR - 2023-05-23 06:20:41 --> 404 Page Not Found: /index
+ERROR - 2023-05-23 06:20:57 --> 404 Page Not Found: /index
+ERROR - 2023-05-23 06:21:15 --> 404 Page Not Found: /index
+ERROR - 2023-05-23 06:21:15 --> 404 Page Not Found: /index
+ERROR - 2023-05-23 06:22:27 --> 404 Page Not Found: /index
+ERROR - 2023-05-23 06:25:57 --> 404 Page Not Found: /index
+ERROR - 2023-05-23 06:26:08 --> 404 Page Not Found: /index
+ERROR - 2023-05-23 06:26:19 --> 404 Page Not Found: /index
+ERROR - 2023-05-23 06:26:33 --> 404 Page Not Found: /index
+ERROR - 2023-05-23 06:46:19 --> 404 Page Not Found: /index
+ERROR - 2023-05-23 08:16:23 --> 404 Page Not Found: /index
+ERROR - 2023-05-23 08:16:24 --> 404 Page Not Found: /index
+ERROR - 2023-05-23 08:34:50 --> 404 Page Not Found: /index
+ERROR - 2023-05-23 09:27:39 --> 404 Page Not Found: /index
+ERROR - 2023-05-23 09:27:40 --> 404 Page Not Found: /index
+ERROR - 2023-05-23 09:27:48 --> 404 Page Not Found: /index
+ERROR - 2023-05-23 09:30:14 --> 404 Page Not Found: /index
+ERROR - 2023-05-23 09:30:28 --> 404 Page Not Found: /index
+ERROR - 2023-05-23 09:31:33 --> 404 Page Not Found: /index
+ERROR - 2023-05-23 09:34:17 --> 404 Page Not Found: /index
+ERROR - 2023-05-23 09:34:49 --> 404 Page Not Found: /index
+ERROR - 2023-05-23 09:34:51 --> 404 Page Not Found: /index
+ERROR - 2023-05-23 09:36:56 --> Severity: Notice --> Trying to get property 'user_fcm' of non-object /home/emqsdmzwimle/public_html/application/modules/api/controllers/StripePayment.php 332
+ERROR - 2023-05-23 09:36:56 --> Severity: Notice --> Trying to get property 'driver_fcm' of non-object /home/emqsdmzwimle/public_html/application/modules/api/controllers/StripePayment.php 344
+ERROR - 2023-05-23 09:37:16 --> Severity: Notice --> Trying to get property 'user_fcm' of non-object /home/emqsdmzwimle/public_html/application/modules/api/controllers/StripePayment.php 332
+ERROR - 2023-05-23 09:37:16 --> Severity: Notice --> Trying to get property 'driver_fcm' of non-object /home/emqsdmzwimle/public_html/application/modules/api/controllers/StripePayment.php 344
+ERROR - 2023-05-23 09:37:25 --> 404 Page Not Found: /index
+ERROR - 2023-05-23 09:38:06 --> 404 Page Not Found: /index
+ERROR - 2023-05-23 09:38:16 --> 404 Page Not Found: /index
+ERROR - 2023-05-23 09:59:58 --> 404 Page Not Found: /index
+ERROR - 2023-05-23 10:48:16 --> 404 Page Not Found: /index
+ERROR - 2023-05-23 10:48:19 --> 404 Page Not Found: /index
+ERROR - 2023-05-23 10:48:21 --> 404 Page Not Found: /index
+ERROR - 2023-05-23 10:48:23 --> 404 Page Not Found: /index
+ERROR - 2023-05-23 12:12:13 --> 404 Page Not Found: /index
+ERROR - 2023-05-23 15:51:53 --> 404 Page Not Found: /index
+ERROR - 2023-05-23 18:31:11 --> 404 Page Not Found: /index
+ERROR - 2023-05-23 18:31:20 --> 404 Page Not Found: /index
+ERROR - 2023-05-23 20:31:18 --> 404 Page Not Found: /index
+ERROR - 2023-05-23 20:38:49 --> 404 Page Not Found: /index
+ERROR - 2023-05-23 22:42:04 --> 404 Page Not Found: /index
+ERROR - 2023-05-23 22:42:05 --> 404 Page Not Found: /index
+ERROR - 2023-05-23 22:42:06 --> 404 Page Not Found: /index
+ERROR - 2023-05-23 22:42:08 --> 404 Page Not Found: /index

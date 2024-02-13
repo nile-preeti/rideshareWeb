@@ -1,0 +1,20 @@
+.banner-media-content {position: relative; } 
+.banner-media {width: 100%; height: 520px; display: block; background: #f8f4d9; overflow: hidden; margin-right: 20px; } 
+.banner-media img {width: 100%; height: 100%; object-fit: cover; object-position: center; } 
+/*.banner-media:after {content: ""; position: absolute; background-image: linear-gradient(rgba(0, 0, 0, 0) 18%, rgb(0 0 0 / 55%) 87%); left: 0; right: 0; top: 0; bottom: 0; } */
+.banner-content {padding: 20px; width: 70%; position: absolute; z-index: 99; height: 100%; -webkit-align-items: center; align-items: center; top: 0; margin: 0 auto; left: 0; right: 0; display: -webkit-flex; display: flex; } 
+.banner-content h1 {font-size: 30px; color: #f8fafd; text-align: center; font-weight: 500; padding: 0; margin: 0; }
+
+.product-deatil .name {
+    margin-top: 0;
+    font-size: 26px;
+    font-weight: bold;
+    margin-bottom: 0;
+    padding: 0;
+}
+
+.about-text h3 {font-size: 20px; font-weight: 600; position: relative; }
+.about-text p {
+    font-size: 15px;
+    line-height: 24px;
+}

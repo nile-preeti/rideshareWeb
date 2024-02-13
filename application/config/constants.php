@@ -1,0 +1,141 @@
+<?php
+defined('BASEPATH') OR exit('No direct script access allowed');
+
+/*
+|--------------------------------------------------------------------------
+| Display Debug backtrace
+|--------------------------------------------------------------------------
+|
+| If set to TRUE, a backtrace will be displayed along with php errors. If
+| error_reporting is disabled, the backtrace will not display, regardless
+| of this setting
+|
+*/
+defined('SHOW_DEBUG_BACKTRACE') OR define('SHOW_DEBUG_BACKTRACE', TRUE);
+
+/*
+|--------------------------------------------------------------------------
+| File and Directory Modes
+|--------------------------------------------------------------------------
+|
+| These prefs are used when checking and setting modes when working
+| with the file system.  The defaults are fine on servers with proper
+| security, but you may wish (or even need) to change the values in
+| certain environments (Apache running a separate process for each
+| user, PHP under CGI with Apache suEXEC, etc.).  Octal values should
+| always be used to set the mode correctly.
+|
+*/
+defined('FILE_READ_MODE')  OR define('FILE_READ_MODE', 0644);
+defined('FILE_WRITE_MODE') OR define('FILE_WRITE_MODE', 0666);
+defined('DIR_READ_MODE')   OR define('DIR_READ_MODE', 0755);
+defined('DIR_WRITE_MODE')  OR define('DIR_WRITE_MODE', 0755);
+
+/*
+|--------------------------------------------------------------------------
+| File Stream Modes
+|--------------------------------------------------------------------------
+|
+| These modes are used when working with fopen()/popen()
+|
+*/
+defined('FOPEN_READ')                           OR define('FOPEN_READ', 'rb');
+defined('FOPEN_READ_WRITE')                     OR define('FOPEN_READ_WRITE', 'r+b');
+defined('FOPEN_WRITE_CREATE_DESTRUCTIVE')       OR define('FOPEN_WRITE_CREATE_DESTRUCTIVE', 'wb'); // truncates existing file data, use with care
+defined('FOPEN_READ_WRITE_CREATE_DESTRUCTIVE')  OR define('FOPEN_READ_WRITE_CREATE_DESTRUCTIVE', 'w+b'); // truncates existing file data, use with care
+defined('FOPEN_WRITE_CREATE')                   OR define('FOPEN_WRITE_CREATE', 'ab');
+defined('FOPEN_READ_WRITE_CREATE')              OR define('FOPEN_READ_WRITE_CREATE', 'a+b');
+defined('FOPEN_WRITE_CREATE_STRICT')            OR define('FOPEN_WRITE_CREATE_STRICT', 'xb');
+defined('FOPEN_READ_WRITE_CREATE_STRICT')       OR define('FOPEN_READ_WRITE_CREATE_STRICT', 'x+b');
+
+/*
+|--------------------------------------------------------------------------
+| Exit Status Codes
+|--------------------------------------------------------------------------
+|
+| Used to indicate the conditions under which the script is exit()ing.
+| While there is no universal standard for error codes, there are some
+| broad conventions.  Three such conventions are mentioned below, for
+| those who wish to make use of them.  The CodeIgniter defaults were
+| chosen for the least overlap with these conventions, while still
+| leaving room for others to be defined in future versions and user
+| applications.
+|
+| The three main conventions used for determining exit status codes
+| are as follows:
+|
+|    Standard C/C++ Library (stdlibc):
+|       http://www.gnu.org/software/libc/manual/html_node/Exit-Status.html
+|       (This link also contains other GNU-specific conventions)
+|    BSD sysexits.h:
+|       http://www.gsp.com/cgi-bin/man.cgi?section=3&topic=sysexits
+|    Bash scripting:
+|       http://tldp.org/LDP/abs/html/exitcodes.html
+|
+*/
+defined('EXIT_SUCCESS')        OR define('EXIT_SUCCESS', 0); // no errors
+defined('EXIT_ERROR')          OR define('EXIT_ERROR', 1); // generic error
+defined('EXIT_CONFIG')         OR define('EXIT_CONFIG', 3); // configuration error
+defined('EXIT_UNKNOWN_FILE')   OR define('EXIT_UNKNOWN_FILE', 4); // file not found
+defined('EXIT_UNKNOWN_CLASS')  OR define('EXIT_UNKNOWN_CLASS', 5); // unknown class
+defined('EXIT_UNKNOWN_METHOD') OR define('EXIT_UNKNOWN_METHOD', 6); // unknown class member
+defined('EXIT_USER_INPUT')     OR define('EXIT_USER_INPUT', 7); // invalid user input
+defined('EXIT_DATABASE')       OR define('EXIT_DATABASE', 8); // database error
+defined('EXIT__AUTO_MIN')      OR define('EXIT__AUTO_MIN', 9); // lowest automatically-assigned error code
+defined('EXIT__AUTO_MAX')      OR define('EXIT__AUTO_MAX', 125); // highest automatically-assigned error code
+
+/* Custome Constant */
+defined('PER_PAGE') OR define('PER_PAGE', 10);
+defined('ADMIN_PER_PAGE') OR define('ADMIN_PER_PAGE', 2);
+defined('SITE_TITLE') OR define('SITE_TITLE','RideshareRates');//niletech@2020/tmitigation
+defined('DEFAULT_SITE_TITLE') OR define('DEFAULT_SITE_TITLE','RideshareRates');//niletech@2020/tmitigation
+defined('DEFAULT_SITE_EMAIL') OR define('DEFAULT_SITE_EMAIL','info@ridesharerates.com');
+defined('DEFAULT_EMAIL_FROM') OR define('DEFAULT_EMAIL_FROM', 'info@ridesharerates.com');
+defined('DEFAULT_EMAIL_MSG') OR define('DEFAULT_EMAIL_MSG', 'ridesharerates@gmail.com');
+defined('DEFAULT_PHONE_NO') OR define('DEFAULT_PHONE_NO', '+1 (404)207-5620');
+
+
+//defined('GOOGLE_MAP_API_KEY') OR define('GOOGLE_MAP_API_KEY','AIzaSyCNpag5CIPndETlFnQsBfwrTdarKuGJmJY');
+//defined('GOOGLE_MAP_API_KEY') OR define('GOOGLE_MAP_API_KEY','AIzaSyByga05rgV6dTqTnpBcR0HFiSbWoSxp_3s');
+defined('GOOGLE_MAP_API_KEY') OR define('GOOGLE_MAP_API_KEY','AIzaSyByga05rgV6dTqTnpBcR0HFiSbWoSxp_3s');
+
+
+defined('PHP_DATE_FORMAT') OR define('PHP_DATE_FORMAT', 'Y/m/d');
+defined('DEFAULT_DATE_FORMAT') OR define('DEFAULT_DATE_FORMAT', 'Y/m/d');
+defined('SQL_DATE_FORMAT') OR define('SQL_DATE_FORMAT', '%Y/%m/%d');
+defined('DEFAULT_CURRENCY') OR define('DEFAULT_CURRENCY', '$');
+
+//defined('FCM_KEY') OR define('FCM_KEY','AAAA_W6vZIM:APA91bHGFClfbX-tfG21B2fuL0PyGxzIm1-MhYb_o2w-AxPLJPEnSqZ_6ugG5ZhFC-APq-M3v_uGwJ9WbuDfyxkJqlmrHtiyco67ojJuDs3wBRZblH7JOOcJb78Nn2DjTTGqCPpCDEHb');
+defined('FCM_KEY') OR define('FCM_KEY','AAAAnhx0egg:APA91bF8wIO3pEioxRWu8hQN4gj_DM2RxlaX3xM117FdiM0wt7VoJc8llELlHJYi9xkXXIfzWgbPdha24Tq-oK3DwCr1qDKf42VoKJV1LqKNQBPLUKF4iwRNl3-6XfoGcBDzkZwrNNm5');
+
+
+/*
+//Test keys from Dev's Stripe Account
+defined('STRIPE_KEY') OR define('STRIPE_KEY', 'pk_test_4sjCZIFhfIeMDj3bpJsFapZf');
+defined('STRIPE_SECRET') OR define('STRIPE_SECRET', 'sk_test_dV9SzRCmNPMKr33sBazUC54G');
+*/
+
+
+
+
+//Test keys from Client's Stripe Account
+/*
+defined('STRIPE_KEY') OR define('STRIPE_KEY', 'pk_test_51N860MAyQV9SI7qTYWyZREnZsdywfMnNSqjGsnNSVKx8l3FECtoIFlCfYGKalSkht4QpHoCIkUXCbFxEhsQc09gL00vwRY7FCI');
+defined('STRIPE_SECRET') OR define('STRIPE_SECRET', 'sk_test_51N860MAyQV9SI7qTGNiOKH1NSCOrdd0RnM9laBKBCM4nxI1HbTKU28GPCe0f9Fall93U44UfuxsHkAYyat7sJBrR00bMZVAIl1');
+*/
+/*
+//Test keys from Dev's Stripe Account
+defined('STRIPE_KEY') OR define('STRIPE_KEY', 'pk_test_4sjCZIFhfIeMDj3bpJsFapZf');
+defined('STRIPE_SECRET') OR define('STRIPE_SECRET', 'sk_test_dV9SzRCmNPMKr33sBazUC54G');
+*/
+
+
+
+
+
+//Live keys from Client's Stripe Account  Key and secret 
+
+defined('STRIPE_KEY') OR define('STRIPE_KEY', 'pk_live_51N860MAyQV9SI7qTzSHJMq0AOEqGjphC8JbHHRqA6vTMPclelXDC97l8zPhtk5pwQhpwT39j4f05thTTnF30G58s00S2EufYNz');
+defined('STRIPE_SECRET') OR define('STRIPE_SECRET','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');
+
+

@@ -1,0 +1,37 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2023-04-07 00:59:52 --> 404 Page Not Found: /index
+ERROR - 2023-04-07 04:34:05 --> 404 Page Not Found: /index
+ERROR - 2023-04-07 04:34:08 --> 404 Page Not Found: /index
+ERROR - 2023-04-07 04:34:09 --> 404 Page Not Found: /index
+ERROR - 2023-04-07 04:34:12 --> 404 Page Not Found: /index
+ERROR - 2023-04-07 04:55:07 --> 404 Page Not Found: /index
+ERROR - 2023-04-07 04:55:09 --> 404 Page Not Found: /index
+ERROR - 2023-04-07 04:55:12 --> 404 Page Not Found: /index
+ERROR - 2023-04-07 04:55:13 --> 404 Page Not Found: /index
+ERROR - 2023-04-07 04:55:14 --> 404 Page Not Found: /index
+ERROR - 2023-04-07 04:55:15 --> 404 Page Not Found: /index
+ERROR - 2023-04-07 04:55:16 --> 404 Page Not Found: /index
+ERROR - 2023-04-07 04:55:17 --> 404 Page Not Found: /index
+ERROR - 2023-04-07 04:55:18 --> 404 Page Not Found: ../modules/web/controllers/Web/wp-admin
+ERROR - 2023-04-07 04:55:18 --> 404 Page Not Found: /index
+ERROR - 2023-04-07 04:55:19 --> 404 Page Not Found: /index
+ERROR - 2023-04-07 04:55:20 --> 404 Page Not Found: /index
+ERROR - 2023-04-07 06:02:57 --> 404 Page Not Found: /index
+ERROR - 2023-04-07 06:03:00 --> 404 Page Not Found: /index
+ERROR - 2023-04-07 07:02:35 --> 404 Page Not Found: /index
+ERROR - 2023-04-07 08:11:29 --> 404 Page Not Found: /index
+ERROR - 2023-04-07 08:45:07 --> 404 Page Not Found: /index
+ERROR - 2023-04-07 08:45:09 --> 404 Page Not Found: /index
+ERROR - 2023-04-07 10:24:17 --> 404 Page Not Found: /index
+ERROR - 2023-04-07 10:24:17 --> 404 Page Not Found: /index
+ERROR - 2023-04-07 12:29:05 --> 404 Page Not Found: /index
+ERROR - 2023-04-07 15:28:36 --> 404 Page Not Found: /index
+ERROR - 2023-04-07 17:32:25 --> 404 Page Not Found: /index
+ERROR - 2023-04-07 17:32:25 --> 404 Page Not Found: /index
+ERROR - 2023-04-07 18:07:35 --> 404 Page Not Found: /index
+ERROR - 2023-04-07 21:22:09 --> 404 Page Not Found: /index
+ERROR - 2023-04-07 23:32:15 --> 404 Page Not Found: /index
+ERROR - 2023-04-07 23:32:16 --> 404 Page Not Found: /index
+ERROR - 2023-04-07 23:32:17 --> 404 Page Not Found: /index
+ERROR - 2023-04-07 23:32:18 --> 404 Page Not Found: /index

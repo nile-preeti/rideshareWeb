@@ -1,0 +1,32 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2023-03-14 00:06:42 --> 404 Page Not Found: /index
+ERROR - 2023-03-14 02:53:04 --> 404 Page Not Found: /index
+ERROR - 2023-03-14 05:14:23 --> 404 Page Not Found: /index
+ERROR - 2023-03-14 05:31:41 --> 404 Page Not Found: /index
+ERROR - 2023-03-14 05:31:42 --> 404 Page Not Found: /index
+ERROR - 2023-03-14 05:31:44 --> 404 Page Not Found: /index
+ERROR - 2023-03-14 06:26:17 --> 404 Page Not Found: ../modules/admin/controllers/Admin/assets
+ERROR - 2023-03-14 06:26:18 --> 404 Page Not Found: ../modules/admin/controllers/Admin/assets
+ERROR - 2023-03-14 06:26:18 --> 404 Page Not Found: ../modules/admin/controllers/Admin/assets
+ERROR - 2023-03-14 06:26:18 --> 404 Page Not Found: ../modules/admin/controllers/Admin/assets
+ERROR - 2023-03-14 06:26:18 --> 404 Page Not Found: /index
+ERROR - 2023-03-14 06:26:19 --> 404 Page Not Found: /index
+ERROR - 2023-03-14 06:26:20 --> 404 Page Not Found: ../modules/admin/controllers/Admin/assets
+ERROR - 2023-03-14 06:26:21 --> 404 Page Not Found: ../modules/admin/controllers/Admin/assets
+ERROR - 2023-03-14 06:26:21 --> 404 Page Not Found: ../modules/admin/controllers/Admin/assets
+ERROR - 2023-03-14 06:26:21 --> 404 Page Not Found: ../modules/admin/controllers/Admin/assets
+ERROR - 2023-03-14 06:26:22 --> 404 Page Not Found: /index
+ERROR - 2023-03-14 06:26:22 --> 404 Page Not Found: /index
+ERROR - 2023-03-14 07:59:04 --> 404 Page Not Found: /index
+ERROR - 2023-03-14 09:28:15 --> 404 Page Not Found: /index
+ERROR - 2023-03-14 09:28:15 --> 404 Page Not Found: /index
+ERROR - 2023-03-14 11:31:10 --> 404 Page Not Found: /index
+ERROR - 2023-03-14 11:31:11 --> 404 Page Not Found: /index
+ERROR - 2023-03-14 11:31:12 --> 404 Page Not Found: /index
+ERROR - 2023-03-14 11:31:13 --> 404 Page Not Found: /index
+ERROR - 2023-03-14 17:07:48 --> 404 Page Not Found: /index
+ERROR - 2023-03-14 19:04:23 --> 404 Page Not Found: /index
+ERROR - 2023-03-14 19:04:23 --> 404 Page Not Found: /index
+ERROR - 2023-03-14 20:22:36 --> 404 Page Not Found: /index
+ERROR - 2023-03-14 20:22:37 --> 404 Page Not Found: /index

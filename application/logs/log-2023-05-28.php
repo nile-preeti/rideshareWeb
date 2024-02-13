@@ -1,0 +1,36 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2023-05-28 01:43:05 --> 404 Page Not Found: /index
+ERROR - 2023-05-28 02:13:53 --> 404 Page Not Found: /index
+ERROR - 2023-05-28 02:13:55 --> 404 Page Not Found: /index
+ERROR - 2023-05-28 02:13:58 --> 404 Page Not Found: /index
+ERROR - 2023-05-28 04:12:01 --> 404 Page Not Found: /index
+ERROR - 2023-05-28 04:12:04 --> 404 Page Not Found: /index
+ERROR - 2023-05-28 04:12:05 --> 404 Page Not Found: /index
+ERROR - 2023-05-28 04:12:07 --> 404 Page Not Found: /index
+ERROR - 2023-05-28 04:18:24 --> 404 Page Not Found: /index
+ERROR - 2023-05-28 04:18:25 --> 404 Page Not Found: /index
+ERROR - 2023-05-28 04:42:25 --> 404 Page Not Found: /index
+ERROR - 2023-05-28 04:42:26 --> 404 Page Not Found: /index
+ERROR - 2023-05-28 05:37:36 --> 404 Page Not Found: /index
+ERROR - 2023-05-28 05:59:21 --> 404 Page Not Found: /index
+ERROR - 2023-05-28 05:59:21 --> 404 Page Not Found: /index
+ERROR - 2023-05-28 06:47:47 --> 404 Page Not Found: /index
+ERROR - 2023-05-28 06:47:51 --> 404 Page Not Found: /index
+ERROR - 2023-05-28 08:42:29 --> 404 Page Not Found: /index
+ERROR - 2023-05-28 10:43:49 --> 404 Page Not Found: /index
+ERROR - 2023-05-28 10:56:05 --> 404 Page Not Found: /index
+ERROR - 2023-05-28 11:39:49 --> 404 Page Not Found: /index
+ERROR - 2023-05-28 11:39:49 --> 404 Page Not Found: /index
+ERROR - 2023-05-28 11:39:49 --> 404 Page Not Found: /index
+ERROR - 2023-05-28 11:39:50 --> 404 Page Not Found: /index
+ERROR - 2023-05-28 12:18:26 --> 404 Page Not Found: /index
+ERROR - 2023-05-28 12:57:13 --> 404 Page Not Found: /index
+ERROR - 2023-05-28 13:33:40 --> 404 Page Not Found: /index
+ERROR - 2023-05-28 13:33:41 --> 404 Page Not Found: /index
+ERROR - 2023-05-28 18:32:06 --> 404 Page Not Found: /index
+ERROR - 2023-05-28 18:33:53 --> 404 Page Not Found: /index
+ERROR - 2023-05-28 20:32:02 --> 404 Page Not Found: /index
+ERROR - 2023-05-28 21:34:26 --> 404 Page Not Found: /index
+ERROR - 2023-05-28 21:34:26 --> 404 Page Not Found: /index
+ERROR - 2023-05-28 21:34:28 --> 404 Page Not Found: /index

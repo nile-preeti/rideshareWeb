@@ -1,0 +1,63 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2023-05-08 02:11:12 --> 404 Page Not Found: /index
+ERROR - 2023-05-08 02:37:31 --> 404 Page Not Found: /index
+ERROR - 2023-05-08 04:30:30 --> 404 Page Not Found: /index
+ERROR - 2023-05-08 04:30:33 --> 404 Page Not Found: /index
+ERROR - 2023-05-08 04:37:16 --> 404 Page Not Found: /index
+ERROR - 2023-05-08 04:37:19 --> 404 Page Not Found: /index
+ERROR - 2023-05-08 04:37:20 --> 404 Page Not Found: /index
+ERROR - 2023-05-08 04:37:23 --> 404 Page Not Found: /index
+ERROR - 2023-05-08 04:39:45 --> 404 Page Not Found: /index
+ERROR - 2023-05-08 04:39:48 --> 404 Page Not Found: /index
+ERROR - 2023-05-08 04:39:50 --> 404 Page Not Found: /index
+ERROR - 2023-05-08 04:39:53 --> 404 Page Not Found: /index
+ERROR - 2023-05-08 04:40:06 --> 404 Page Not Found: /index
+ERROR - 2023-05-08 05:42:26 --> 404 Page Not Found: /index
+ERROR - 2023-05-08 06:15:52 --> 404 Page Not Found: /index
+ERROR - 2023-05-08 06:15:54 --> 404 Page Not Found: /index
+ERROR - 2023-05-08 06:55:14 --> 404 Page Not Found: /index
+ERROR - 2023-05-08 06:55:15 --> 404 Page Not Found: /index
+ERROR - 2023-05-08 10:24:39 --> 404 Page Not Found: /index
+ERROR - 2023-05-08 11:23:09 --> 404 Page Not Found: /index
+ERROR - 2023-05-08 11:49:16 --> 404 Page Not Found: /index
+ERROR - 2023-05-08 13:08:37 --> 404 Page Not Found: /index
+ERROR - 2023-05-08 13:51:19 --> 404 Page Not Found: /index
+ERROR - 2023-05-08 15:26:56 --> 404 Page Not Found: /index
+ERROR - 2023-05-08 15:40:48 --> 404 Page Not Found: /index
+ERROR - 2023-05-08 15:58:09 --> 404 Page Not Found: /index
+ERROR - 2023-05-08 16:20:48 --> 404 Page Not Found: /index
+ERROR - 2023-05-08 16:21:03 --> 404 Page Not Found: /index
+ERROR - 2023-05-08 16:39:43 --> 404 Page Not Found: /index
+ERROR - 2023-05-08 16:49:10 --> 404 Page Not Found: /index
+ERROR - 2023-05-08 16:54:06 --> 404 Page Not Found: /index
+ERROR - 2023-05-08 17:19:30 --> 404 Page Not Found: /index
+ERROR - 2023-05-08 17:19:33 --> 404 Page Not Found: /index
+ERROR - 2023-05-08 19:26:45 --> 404 Page Not Found: /index
+ERROR - 2023-05-08 19:35:44 --> 404 Page Not Found: /index
+ERROR - 2023-05-08 19:35:45 --> 404 Page Not Found: /index
+ERROR - 2023-05-08 19:41:45 --> 404 Page Not Found: /index
+ERROR - 2023-05-08 19:43:10 --> 404 Page Not Found: /index
+ERROR - 2023-05-08 19:43:53 --> 404 Page Not Found: /index
+ERROR - 2023-05-08 19:56:26 --> 404 Page Not Found: /index
+ERROR - 2023-05-08 20:43:17 --> 404 Page Not Found: /index
+ERROR - 2023-05-08 20:46:38 --> Severity: Notice --> Trying to get property 'ride_status' of non-object /home/emqsdmzwimle/public_html/application/modules/api/controllers/Driver.php 57
+ERROR - 2023-05-08 20:46:38 --> Severity: Notice --> Trying to get property 'count_cancelled_ride' of non-object /home/emqsdmzwimle/public_html/application/modules/api/controllers/Driver.php 189
+ERROR - 2023-05-08 20:46:38 --> Query error: Cannot add or update a child row: a foreign key constraint fails (`getdumaapp`.`cancelled_ride`, CONSTRAINT `cancelled_ride_ibfk_2` FOREIGN KEY (`ride_id`) REFERENCES `rides` (`ride_id`)) - Invalid query: INSERT INTO `cancelled_ride` (`driver_id`, `ride_id`, `created_date`, `updated_date`) VALUES ('43', '', '2023-05-08 20:46:38', '2023-05-08 20:46:38')
+ERROR - 2023-05-08 21:05:33 --> 404 Page Not Found: /index
+ERROR - 2023-05-08 21:05:34 --> 404 Page Not Found: /index
+ERROR - 2023-05-08 21:43:19 --> 404 Page Not Found: /index
+ERROR - 2023-05-08 21:43:21 --> 404 Page Not Found: /index
+ERROR - 2023-05-08 21:43:23 --> 404 Page Not Found: /index
+ERROR - 2023-05-08 21:43:25 --> 404 Page Not Found: /index
+ERROR - 2023-05-08 22:31:22 --> 404 Page Not Found: /index
+ERROR - 2023-05-08 22:31:24 --> 404 Page Not Found: /index
+ERROR - 2023-05-08 22:31:28 --> 404 Page Not Found: /index
+ERROR - 2023-05-08 22:31:29 --> 404 Page Not Found: /index
+ERROR - 2023-05-08 22:32:41 --> 404 Page Not Found: /index
+ERROR - 2023-05-08 22:32:42 --> 404 Page Not Found: /index
+ERROR - 2023-05-08 22:36:28 --> 404 Page Not Found: /index
+ERROR - 2023-05-08 22:49:41 --> 404 Page Not Found: /index
+ERROR - 2023-05-08 22:49:42 --> 404 Page Not Found: /index
+ERROR - 2023-05-08 23:10:45 --> 404 Page Not Found: /index
+ERROR - 2023-05-08 23:10:45 --> 404 Page Not Found: /index

@@ -1,0 +1,9 @@
+.internal-page-content h1 {font-size:26px; font-weight: 600; padding: 0; color: #ffffff; }
+.internal-page-content h3 {font-size: 18px; font-weight: 600; padding: 0; color: #ffffff; }
+.internal-page-content p {font-size: 14px; color: #ffffff; line-height: 24px; }
+.internal-page-content p a{color: #D38C60;}
+
+.internal-page-content ul {list-style-type: square; padding: 0 0 0 20px; list-style-position: outside; }
+.internal-page-content ul li{line-height: 24px;color: #ffffff;font-size: 14px;text-align: justify;}
+.internal-page-content ul li a{color: #D38C60;}
+
