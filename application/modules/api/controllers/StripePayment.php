@@ -619,8 +619,8 @@ class StripePayment extends BD_Controller {
               }else{ 
 				$query = $this->Auth_model->getCustomFields(TABLES::CARD_DETAIL,array('id'=>$this->input->post('card_id')),'*');
 				$row = $query->row();
-				$payment = new \Stripe\StripeClient('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');
-				//sk_test_51N860MAyQV9SI7qTGNiOKH1NSCOrdd0RnM9laBKBCM4nxI1HbTKU28GPCe0f9Fall93U44UfuxsHkAYyat7sJBrR00bMZVAIl1
+				$payment = new \Stripe\StripeClient('Stripe_key_live');
+				
 						$payment->charges->capture($txn_id,[
 					 
 						  "amount" => 100 * $amount 
