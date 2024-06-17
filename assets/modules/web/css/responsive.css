@@ -1,0 +1,50 @@
+@media only screen and (min-width : 480px) {
+ 
+}
+@media only screen and (min-width : 768px) {
+}
+@media only screen and (min-width : 992px) {
+
+
+}
+@media only screen and (min-width : 1200px) {
+}
+@media only screen and (max-width : 1199px) {
+
+}
+@media only screen and (max-width : 991px) {
+.car-map-nav,
+.car-map-nav-1{position: relative; text-align: center; margin-bottom: 1rem; bottom: 0; }
+.product-deatil .name{margin-bottom: 1rem;}
+.banner-media{height: auto;}
+#hero{height: auto;}
+#hero .hero-img img {width: 100%; } 
+#hero .container, #hero .container-fluid {padding-top: 0; }
+.pricing .item {margin-bottom: 1rem; }
+
+} 
+@media only screen and (max-width : 767px) {
+.mobile-nav-toggle { position: absolute; right: 15px; }
+	.mobile-nav{top: 64px;}
+
+.banner-media{height: auto;}
+.product-deatil{padding: 0;} 
+.car-map-nav,
+.car-map-nav-1{position: relative; text-align: center; margin-bottom: 1rem; bottom: 0; }
+.itemdetail-H{margin-bottom: 1rem; text-align: center;justify-content: center;}
+.banner-content{width: 100%;}
+.banner-content h1{font-size: 20px;}
+#about .about-img img,
+#about .about-img img:hover{width: 100%;transform: inherit;}
+#about .about-img {top: 0; }
+.ios-android-ic {text-align: center;margin-bottom: 2rem; }
+
+}
+ 
+@media only screen and (max-width : 480px) {
+	.section-title{margin-bottom: 0;}
+.section-title h2,
+.section-title h6{text-align: center;margin: 0;
+    padding: 0;}
+
+}

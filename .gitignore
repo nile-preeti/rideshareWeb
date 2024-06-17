@@ -1,0 +1,7 @@
+uploads
+application/modules_STAGING_WITH CHANGES
+application/logs/
+application/config/constants.php
+*.logs
+*.JSON
+vendor

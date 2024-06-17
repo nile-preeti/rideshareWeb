@@ -1,0 +1,60 @@
+ .vd_bg-grey {background-color: #3c485c !important; } 
+
+    .panel .panel-body {
+
+    padding: 15px 15px 25px;
+
+   }
+
+   .form-control{padding:6px 8px; }
+
+/*   .vd_content-section{background: #fafff2;}*/
+.vd_head-section .vd_panel-menu .menu:first-child{border-left: none;}
+.vd_head-section .vd_panel-menu .menu {
+    color: #fb8904;
+    border: none;
+    background: #fff8a6;
+    border-radius: 4px;
+	margin-right: 8px;
+}
+    .vd_panel-menu{margin-right: 0px;}
+
+    .vd_bg-grey{background-color: #3c485c !important;}
+
+    .light-widget .panel-heading{margin-top: 12px;}
+
+    .vd_panel-menu{position: absolute; top: 7px;}
+
+    .form-control{font-size: 12px; height: 31px; padding: 5px 8px; height: 29px;}
+
+    .btn {padding: 4px 15px;}
+
+    .table-dashboard table tr td{font-size: 12px;}
+
+    .mt-20{margin-top: 20px;}
+
+    .vehicle-detail{font-size: 20px; font-weight: bold;}
+
+.add-more {
+    color: #81bd19;
+    font-size: 13px;
+    font-weight: 600;
+    padding: 6px 10px;
+    display: inline-block;
+    border-radius: 5px;
+    border: 1px solid #81bd19;
+    line-height: normal;
+}
+
+
+  .remove-more{
+    color: #ff0000;
+    font-size: 13px;
+    font-weight: 600;
+    padding: 6px 10px;
+    display: inline-block;
+    border-radius: 5px;
+    border: 1px solid #ff0000;
+    line-height: normal;
+}
+.panel .panel-body, .panel .panel-body-list{ background: rgba(38, 38, 38, 0.95)!important;}

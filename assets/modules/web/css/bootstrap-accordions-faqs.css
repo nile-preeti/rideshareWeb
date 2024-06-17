@@ -1,0 +1,29 @@
+
+#accordion{margin-top: 50px;}
+.accordion-section .panel-default > .panel-heading {
+    border: 0;
+    background: #f4f4f4;
+    padding: 0;
+}
+.accordion-section .panel-default .panel-title a {
+    display: block;
+    /*font-style: italic;*/
+    font-size: 1.1rem;
+}
+.accordion-section .panel-default .panel-title a:after {
+    font-family: 'FontAwesome';
+    font-style: normal;
+    font-size: 2rem;
+    content: "\f106";
+    color: #81bd19;
+    float: right;
+    margin-top: -7px;
+}
+.accordion-section .panel-default .panel-title a.collapsed:after {
+    content: "\f107";
+}
+.accordion-section .panel-default .panel-body {
+    font-size: 1rem;
+}
+.panel-heading h3{margin: 0px;}
+a:hover{color: #81bd19;}
